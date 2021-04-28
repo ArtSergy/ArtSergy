@@ -5,3 +5,4 @@
   * [x]  Discord embeds
   * [ ]  Attachments
   * [ ]  Website bells and whistles
+* [Image suffle](https://github.com/ArtSergy/Image-suffle)
